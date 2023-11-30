@@ -1,6 +1,6 @@
 # SOS-CAM
 Official implementation of Small Objects in construction Sites (SOS)-CAM (under review). 
-> Jaehun Yang, Eunju Lee, Junehyoung Kwon, Doyeop Lee, Youngbin Kim, Chansik Park, and Dongmin Lee
+> Jaehun Yang, Eunju Lee, Junehyoung Kwon, Dongmin Lee, Youngbin Kim, Chansik Park, and Doyeop Lee
 
 ![architecture](./imgs/SOS-CAM.png)
 
