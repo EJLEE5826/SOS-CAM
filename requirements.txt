@@ -22,7 +22,7 @@ mkl-random==1.2.2
 mkl-service==2.4.0
 numexpr==2.8.4
 numpy==1.25.0
-opencv-python==4.8.0.74
+opencv-python==4.8.1.78
 packaging==23.1
 pandas==1.5.3
 pathtools==0.1.2
