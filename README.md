@@ -1,6 +1,6 @@
 # A Weakly Supervised Learning Framework Utilizing Enhanced Class Activation Map for Object Detection in Construction Sites
 Official implementation of our paper [A Weakly Supervised Learning Framework Utilizing Enhanced Class Activation Map for Object Detection in Construction Sites](https://ieeexplore.ieee.org/document/10584490).
-> Jaehun Yang, Eunju Lee, Junehyoung Kwon, Dongmin Lee, Youngbin Kim, Chansik Park, and Doyeop Lee
+> Jaehun Yang*, Eunju Lee*, Junehyoung Kwon, Dongmin Lee, Youngbin Kim, Chansik Park, and Doyeop Lee
 
 ![architecture](./imgs/SOS-CAM.png)
 
